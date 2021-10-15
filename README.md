@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiximitho&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NatanaelHZ&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiximitho&hide=python,javascript,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelHZ&hide=python,javascript,html,css" />
 </a>
 
 - 🔭 I’m currently working on ...
