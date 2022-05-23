@@ -8,4 +8,4 @@
 </a>
 
 - 🔭 Desenvolvedor de Software
-- 🌱 Atualmente cursando Bacharel em Ciência da Computação - UFFS
+- 🌱 Atualmente cursando Bacharelado em Ciência da Computação - UFFS
