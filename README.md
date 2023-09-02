@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🧑‍💻 Programador (Web - Mobile - Desktop)
-- 🤓 Cursando Bacharelado em Ciência da Computação - UFFS (2018 - 2023)
+- 🤓 Bacharel em Ciência da Computação - UFFS
 - 🤖 Técnico em Mecatrônica
 
 
